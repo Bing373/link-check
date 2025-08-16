@@ -1,0 +1,78 @@
+{
+    "timestamp": "2025-08-16 10:46:00",
+    "accessible_count": 12,
+    "inaccessible_count": 2,
+    "total_count": 14,
+    "link_status": [
+        {
+            "name": "辣条",
+            "link": "https://blog.owwo.fun",
+            "latency": 0.03
+        },
+        {
+            "name": "清羽飞扬",
+            "link": "https://blog.liushen.fun",
+            "latency": 0.37
+        },
+        {
+            "name": "安知鱼",
+            "link": "https://blog.anheyu.com",
+            "latency": 1.4
+        },
+        {
+            "name": "清羽飞扬",
+            "link": "https://blog.liushen.fun",
+            "latency": 0.41
+        },
+        {
+            "name": "东方月初",
+            "link": "https://blog.biuxin.com",
+            "latency": 1.06
+        },
+        {
+            "name": "Tianli",
+            "link": "https://blog.tianli0.top",
+            "latency": 0.42
+        },
+        {
+            "name": "星雪",
+            "link": "https://snowtafir.top",
+            "latency": 0.43
+        },
+        {
+            "name": "桜瀬トナエ",
+            "link": "https://wp.ousetonae.com",
+            "latency": -1
+        },
+        {
+            "name": "isYangs",
+            "link": "https://isyangs.cn",
+            "latency": 1.14
+        },
+        {
+            "name": "下次放过我",
+            "link": "https://blog.wewoaini.us.kg",
+            "latency": -1
+        },
+        {
+            "name": "Sky-cat✨",
+            "link": "https://blog.075262.xyz",
+            "latency": 1.11
+        },
+        {
+            "name": "乐活星球",
+            "link": "https://blog.lohas.fun",
+            "latency": 1.03
+        },
+        {
+            "name": "Elykia",
+            "link": "https://blog.elykia.cn",
+            "latency": 0.76
+        },
+        {
+            "name": "阿呆",
+            "link": "https://adai.fun",
+            "latency": 0.58
+        }
+    ]
+}
